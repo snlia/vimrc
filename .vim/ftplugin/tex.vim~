@@ -1,0 +1,4 @@
+compiler tex
+set makeprg=xelatex\ %
+map <C-F9> :!acroread %<.pdf<cr>
+
